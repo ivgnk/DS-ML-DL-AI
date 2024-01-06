@@ -30,6 +30,11 @@ The Great Depression: A Chronology of Economic Despair and Recovery
 
 
 # 📄 Articles
+**https://habr.com/ru/hubs/artificial_intelligence**    
+https://habr.com/ru/hubs/machine_learning          
+https://habr.com/ru/hubs/natural_language_processing             
+https://habr.com/ru/hubs/bigdata            
+
 03.01.2024 Наиболее важные события 2023 года, связанные с открытыми проектами                     
 *Машинное обучение: Оптимизатор моделей OpenXLA. BlenderGPT. Mozilla.ai. Модель для синтеза 3D-изображений. Stable Video Diffusion, Video-LLaVA и Kandinsky Video для синтеза видео. Llamafile для упаковки моделей в исполняемые файлы. Модель векторного представления смысла текста Jina Embedding. Удаление фона с изображений и видео. Открытый набор данных RedPajama. OpenChatKit, FlexGen, Open-Assistant для создания чатботов. AI Alliance для совместного развития открытых AI-технологий.*              
 https://www.opennet.ru/opennews/art.shtml?num=60367               
