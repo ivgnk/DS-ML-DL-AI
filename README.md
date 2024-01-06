@@ -1,8 +1,11 @@
 # AI (Artificial intelligence)              
+
+## 🏢 GitHub                 
 https://github.com/topics/ai              
 https://github.com/topics/artificial-intelligence               
 
-https://github.com/topics/chatgpt -  9,184 public repo                      
+https://github.com/topics/openai - 9,202 public repo                
+https://github.com/topics/chatgpt -  9,184 public repo                                
 https://github.com/topics/gpt-3 -  2,471 public repo               
 https://github.com/topics/gpt-4 -  1,793 public repo                
 https://github.com/topics/chatgpt-api -  1,858 public repo                           
@@ -10,8 +13,6 @@ https://github.com/topics/chatgpt-api -  1,858 public repo
 https://github.com/topics/autonomous-agent                 
 - - -
 https://github.com/yzfly/Awesome-AGI-Agents                          
-
-## 🏢 GitHub                 
 
 ## 🏠 PyPi                          
 
