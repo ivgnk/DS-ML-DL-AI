@@ -15,6 +15,8 @@ https://github.com/topics/autonomous-agent
 https://github.com/yzfly/Awesome-AGI-Agents                          
 
 ## 🏠 PyPi                          
+https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Artificial+Intelligence          
+
 
 ## 🔥 Sites
 **https://en.wikipedia.org/wiki/Artificial_intelligence**             
@@ -32,3 +34,5 @@ The Great Depression: A Chronology of Economic Despair and Recovery
 *Машинное обучение: Оптимизатор моделей OpenXLA. BlenderGPT. Mozilla.ai. Модель для синтеза 3D-изображений. Stable Video Diffusion, Video-LLaVA и Kandinsky Video для синтеза видео. Llamafile для упаковки моделей в исполняемые файлы. Модель векторного представления смысла текста Jina Embedding. Удаление фона с изображений и видео. Открытый набор данных RedPajama. OpenChatKit, FlexGen, Open-Assistant для создания чатботов. AI Alliance для совместного развития открытых AI-технологий.*              
 https://www.opennet.ru/opennews/art.shtml?num=60367               
 
+17.12.2023-21.12.2023 - Цикл статей 
+https://t.me/spydell_finance/4700 - https://t.me/spydell_finance/4719
