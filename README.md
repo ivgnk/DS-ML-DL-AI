@@ -44,4 +44,5 @@ https://www.opennet.ru/opennews/art.shtml?num=60367
 https://t.me/spydell_finance/4700 - https://t.me/spydell_finance/4719
 
 09.01.2024 - Цикл статей 
-** https://t.me/spydell_finance/4846 - https://t.me/spydell_finance/4848 **
+**https://t.me/spydell_finance/4846 - https://t.me/spydell_finance/4848** - Confirms my conclusions
+
