@@ -1,3 +1,20 @@
+# ML
+## OpenVINO 
+### Git                 
+https://github.com/openvinotoolkit                        
+https://github.com/search?q=topic%3Aopenvino+org%3Aopenvinotoolkit+fork%3Atrue&type=repositories                  
+
+### Doc/News
+https://docs.openvino.ai                    
+https://docs.openvino.ai/2023.3/home.html                         
+- - -
+[OpenVINO 2023.3](https://www.linux.org.ru/news/linux-general/17500274)                  
+
+### Habr                 
+https://habr.com/ru/search/?target_type=posts&order=relevance&q=openvino
+https://habr.com/ru/search/?q=%5Bopenvino%20toolkit%5D&target_type=posts&order=date
+2021 [Что такое OpenVINO?](https://habr.com/ru/companies/intel/articles/546438/)              
+
 # AI (Artificial intelligence)              
 
 ## 🏢 GitHub                 
