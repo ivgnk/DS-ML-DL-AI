@@ -20,12 +20,12 @@ https://habr.com/ru/search/?q=%5Bopenvino%20toolkit%5D&target_type=posts&order=d
 [Организация OSI выработала критерии открытости AI-систем](https://www.opennet.ru/opennews/art.shtml?num=62127)                  
 https://www.opennet.ru/keywords/ai.html                     
 
-## Habr              
-**https://habr.com/ru/hubs/artificial_intelligence**
-https://habr.com/ru/hubs/machine_learning
-https://habr.com/ru/hubs/natural_language_processing
-https://habr.com/ru/hubs/bigdata
-https://habr.com/ru/hubs/tensorflow
+## Habr                      
+**https://habr.com/ru/hubs/artificial_intelligence**                      
+https://habr.com/ru/hubs/machine_learning                         
+https://habr.com/ru/hubs/natural_language_processing                        
+https://habr.com/ru/hubs/bigdata                          
+https://habr.com/ru/hubs/tensorflow                                   
 
 ## 🏢 GitHub                 
 https://github.com/topics/ai              
