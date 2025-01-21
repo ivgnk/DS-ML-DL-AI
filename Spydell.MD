@@ -16,6 +16,33 @@ https://en.wikipedia.org/wiki/Large_language_model
 - - -
 # [Spydell](https://t.me/spydell_finance)
 ## 2025  
+07.01 [Прогресс за год в языковых моделях](https://t.me/spydell_finance/6854)      
+<details>
+  <summary>Main ideas</summary>   
+1.  ChatGPT o1: США, OpenAI, сентябрь 2024, контекстное окно 128 тыс токенов.
+2.  Google Gemini 2 flash: США, Google, декабрь 2024, 2 млн токенов.
+3.  Claude 3.5 Sonnet: США, Anthropic, октябрь 2024, 200 тыс токенов.
+4.  Amazon Nova Pro: США, Amazon, декабрь 2024, 300 тыс токенов.
+5.  Llama 3.3 70B: США, Meta Platforms, декабрь 2024, 128 тыс токенов.
+6.  xAI Grok: США, xAI, ноябрь 2024, 8 тыс токенов.
+7.  Phi-3 Medium: США, Microsoft, апрель 2024, 128 тыс токенов.
+8.  Reka Flash: США, Reka AI, февраль 2024, 128 тыс токенов.
+9.  Command R+: Канада, Cohere, апрель 2024, 128 тыс токенов.
+10.  Mistral Large 2: Франция, Mistral AI, июль 2024, 128 тыс токенов.
+11.  Qwen 2.5: Китай, Alibaba, декабрь 2024, 131 тыс токенов.
+12.  DeepSeek V3: Китай, DeepSeek, декабрь 2024, 128 тыс токенов.
+13.  Jamba 1.5 Large: Израиль, AI21 Labs, август 2024, 256 тыс токенов.
+14.  YandexGPT 4: Россия, Яндекс, октябрь 2024 года, 32 тыс токенов.
+15.  GigaChat: Россия, Сбербанк, май 2024, 32 тыс токенов.
+16.  T-Pro: Россия, Т-банк, декабрь 2024, 8 тыс токенов.
+
+Мой рейтинг самых мощных по совокупности факторов: 
+- OpenAI o1, Claude 3.5 Sonnet, DeepSeek V3, Qwen 2.5 и Google Gemini 2 flash.
+- Примерно сопоставимы плюс-минус во втором эшелоне: Llama 3.3 70B, Amazon Nova Pro и Mistral Large 2. 
+- Все остальные в третьем эшелоне с учетом достаточно слабой модели от Илона Маска.
+</details>
+
+
 10.01. [Повсеместное внедрение роботов?](https://t.me/spydell_finance/6862)      
 *Nvidia [определила](https://t.me/spydell_finance/6857) новый тренд на ближайшее будущее – автономные комплексы и тотальная роботификация промышленности и экономики*
 
