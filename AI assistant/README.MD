@@ -50,4 +50,5 @@ https://habr.com/ru/search/?target_type=posts&order=relevance&q=[code+llama]
 2024 **[Meta выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/)**                            
 
 ## [Claude](https://ru.wikipedia.org/wiki/Claude) [Anthropic] since 2023                    
-
+https://claude-ai.ru                                           
+2024 [Как пользоваться Claude: знакомство с главным конкурентом ChatGPT и базовые правила его использования](https://habr.com/ru/companies/bothub/articles/812659/)            
