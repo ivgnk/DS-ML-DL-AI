@@ -42,4 +42,4 @@ https://huggingface.co/codellama/CodeLlama-70b-hf
 https://habr.com/ru/search/?target_type=posts&order=relevance&q=[llama]                         
 https://habr.com/ru/search/?target_type=posts&order=relevance&q=[code+llama]                
 
-2024 [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/)          
+2024 **[Meta выпустила версию Code Llama 70B]**(https://habr.com/ru/news/790590/)          
