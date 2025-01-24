@@ -1,4 +1,4 @@
-<img src="https://github.com/ivgnk/DS-ML-DL-AI/blob/master/AI%20assistant/AI%20assistant%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%20(shedevrum_ai).jpg" width=200>
+<img src="https://github.com/ivgnk/DS-ML-DL-AI/blob/master/AI%20assistant/AI%20assistant%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%20(shedevrum_ai).jpg" width=200>                 
 [Как выглядит одноглазый Ai assistant робот в стиле дизельпанк хромированный, без ржавчины на фоне большой библиотеки, то есть четко видны полки с книгами. Размытия заднего фона нет](https://shedevrum.ai/text-to-image)      
                
 
