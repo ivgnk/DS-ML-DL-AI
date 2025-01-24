@@ -5,7 +5,11 @@
 
 # Definitions
 ## Wiki                 
-https://en.wikipedia.org/wiki/Category:Generative_artificial_intelligence                             
+https://en.wikipedia.org/wiki/Category:Large_language_models            
+https://en.wikipedia.org/wiki/Category:Generative_pre-trained_transformers                       
+https://en.wikipedia.org/wiki/Category:OpenAI
+
+https://en.wikipedia.org/wiki/Category:Generative_artificial_intelligence                        
 https://en.wikipedia.org/wiki/Category:2020s_in_computing                      
 
 https://en.wikipedia.org/wiki/Generative_artificial_intelligence                     
