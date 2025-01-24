@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Category:2020s_in_computing
 https://en.wikipedia.org/wiki/Generative_artificial_intelligence                     
 https://ru.wikipedia.org/wiki/Генеративный_искусственный_интеллект                    
 
-Вебчат и OpenAI API без VPN. 
+**Вебчат и OpenAI API без VPN**                 
 [Топовые нейросети: ChatGPT 4, GPT-4o, Claude 3.5 Sonnet, Claude 3 Opus/Sonnet/Haiku, Google Gemini Pro, Llama 405B...
 Оплата российскими картами
 199 р в месяц*](https://vsegpt.ru/)          
