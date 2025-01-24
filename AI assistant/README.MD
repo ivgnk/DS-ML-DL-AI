@@ -10,6 +10,7 @@ https://en.wikipedia.org/wiki/Category:2020s_in_computing
 
 https://en.wikipedia.org/wiki/Generative_artificial_intelligence                     
 https://ru.wikipedia.org/wiki/Генеративный_искусственный_интеллект                    
+https://ru.wikipedia.org/wiki/Generative_pre-trained_transformer                         
 
 **Вебчат и OpenAI API без VPN**                 
 [Топовые нейросети: ChatGPT 4, GPT-4o, Claude 3.5 Sonnet, Claude 3 Opus/Sonnet/Haiku, Google Gemini Pro, Llama 405B...
@@ -43,3 +44,6 @@ https://habr.com/ru/search/?target_type=posts&order=relevance&q=[llama]
 https://habr.com/ru/search/?target_type=posts&order=relevance&q=[code+llama]                
 
 2024 **[Meta выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/)**                            
+
+## [Claude](https://ru.wikipedia.org/wiki/Claude) [Anthropic] since 2023                    
+
