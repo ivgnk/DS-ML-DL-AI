@@ -27,6 +27,7 @@ https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven
 ## [GitHub Copilot](https://github.com/features/copilot)                      
 https://ru.wikipedia.org/wiki/GitHub_Copilot                          
 2024 [Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/)            
+2023 [Активируем Copilot в любом регионе](https://teletype.in/@marble_money/aktiviruem-copilot)          
 - - - 
 
 
