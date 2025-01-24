@@ -16,6 +16,7 @@ https://ru.wikipedia.org/wiki/Генеративный_искусственны�
 # AI assistants              
 ## [Cursor](https://www.cursor.com)                       
 2024 [Обзор AI-ассистента Cursor для разработчиков](https://habr.com/ru/companies/otus/articles/844866/)             
+https://github.com/kingparks/cursor-vip                
 
 ## [Supermaven](https://supermaven.com)                  
 https://habr.com/ru/search/?target_type=posts&order=relevance&q=[Supermaven]                      
@@ -30,4 +31,10 @@ https://ru.wikipedia.org/wiki/GitHub_Copilot
 2023 [Активируем Copilot в любом регионе](https://teletype.in/@marble_money/aktiviruem-copilot)          
 - - - 
 
+## Code Llama
+https://github.com/inferless/CodeLlama-70B                  
+https://huggingface.co/codellama/CodeLlama-70b-hf               
+https://habr.com/ru/search/?target_type=posts&order=relevance&q=[llama]                         
+https://habr.com/ru/search/?target_type=posts&order=relevance&q=[code+llama]                
 
+2024 [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/)          
