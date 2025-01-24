@@ -1,4 +1,5 @@
 <img src="https://github.com/ivgnk/DS-ML-DL-AI/blob/master/AI%20assistant/AI%20assistant%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%20(shedevrum_ai).jpg" width=200>
+
 # Definitions
 2024 [Что такое токены, как с ними работает ИИ, и почему вам стоит это узнать](https://www.techinsider.ru/news/news-1635093-chto-takoe-tokeny-kak-s-nimi-rabotaet-ii-i-pochemu-vam-stoit-eto-uznat/)              
 # AI assistants              
