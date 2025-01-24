@@ -16,6 +16,9 @@ https://habr.com/ru/search/?target_type=posts&order=relevance&q=[Supermaven]
 ИИ-помощник работает по подписке, которую можно оформить за 10 долларов в месяц или 99 в год.               
 https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven
 
+## [GitHub Copilot](https://github.com/features/copilot)           
+https://ru.wikipedia.org/wiki/GitHub_Copilot
+2024 [Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/)            
 - - - 
 
 
