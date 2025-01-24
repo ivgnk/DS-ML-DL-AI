@@ -53,3 +53,6 @@ https://habr.com/ru/search/?target_type=posts&order=relevance&q=[code+llama]
 https://en.wikipedia.org/wiki/Claude_(language_model)                  
 https://claude-ai.ru                                           
 2024 [Как пользоваться Claude: знакомство с главным конкурентом ChatGPT и базовые правила его использования](https://habr.com/ru/companies/bothub/articles/812659/)            
+
+Как пользоваться Claude в России 
+https://journal.tinkoff.ru/how-to-use-claude/
