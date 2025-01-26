@@ -15,11 +15,11 @@ https://en.wikipedia.org/wiki/Large_language_model
 
 - - -
 # For Puctures & Video
-https://shedevrum.ai
+**https://shedevrum.ai**                  
 
-[бесплатный генератор 3D-моделей от Tencent — Hunyuan 3D 2.0](https://t.me/KiberTopor_Tg/8846)              
-https://huggingface.co/spaces/NeuroSenko/Hunyuan3D-2
-https://github.com/deepbeepmeep/Hunyuan3D-2GP
+[бесплатный генератор 3D-моделей от Tencent — Hunyuan 3D 2.0](https://t.me/KiberTopor_Tg/8846)               
+https://huggingface.co/spaces/NeuroSenko/Hunyuan3D-2               
+https://github.com/deepbeepmeep/Hunyuan3D-2GP                
 
 - - -
 # [Spydell](https://t.me/spydell_finance)
