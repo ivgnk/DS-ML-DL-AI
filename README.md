@@ -56,6 +56,11 @@ The Great Depression: A Chronology of Economic Despair and Recovery
 ![The Great Depression: A Chronology of Economic Despair and Recovery](https://github.com/ivgnk/AI/blob/master/the-great-depression-a-chronology-of-economic-despair-and-recovery-06hdt5.png)        
 
 ## 🌐 LLM Chats
+### Giga.chat                  
+https://giga.chat                         
+https://gitverse.ru/features/gigaide                 
+https://gitverse.ru/features/gigaide/desktop/download/                       
+
 ### MyChat with heybro.ai
 https://heybro.ai/web?etext=2202.qwzKUoAZwkhmhAP89Z7evlpNvGXqtJ7vv95GpC0qtFlL0c3sWjyfSi22Uu-SZgP4OD7cs9QNxrwjXk1KLAswzpWXrdgGedulVZKuDK5UvJR0DyU-rmfZPt_bqbEr5zo_eGhjaHV5a2h5bXRtZm9lbA.897336dbb1f2eaf3ebba77cf342a47f9b9f49bd7
 
@@ -99,6 +104,8 @@ aidungeon.io
 
 - Также бесплатные чаты с персонажами искусственного интеллекта без регистрации доступны на следующих сайтах:
 CrushOn.AI. Платформа предлагает неограниченное взаимодействие с разнообразными виртуальными компаньонами, в том числе 100 бесплатных сообщений в месяц.
+
+## IDE с AI-помощниками                   
 
 ## 📄 Articles
 **https://habr.com/ru/hubs/artificial_intelligence**    
