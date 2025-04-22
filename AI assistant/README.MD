@@ -51,8 +51,11 @@ https://ru.wikipedia.org/wiki/GitHub_Copilot
 ## Duck.ai                       
 https://duck.ai                                  
 
-Deepseek              
-## https://deepseek.com                           
+## Deepseek              
+https://deepseek.com        
+
+## Windsurf (Codeium)                  
+https://windsurf.com/plugins               
 
 ## Code Llama
 https://github.com/inferless/CodeLlama-70B                  
