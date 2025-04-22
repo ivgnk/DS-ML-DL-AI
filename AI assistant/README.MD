@@ -47,22 +47,25 @@ https://ru.wikipedia.org/wiki/GitHub_Copilot
 2023 [Активируем Copilot в любом регионе](https://teletype.in/@marble_money/aktiviruem-copilot)            
 10 февр 2023 [Как установить и использовать Copilot в России](https://tproger.ru/articles/kak-ustanovit-i-ispolzovat-copilot-v-rossii)                 
 - - - 
+## Amazon CodeWhisperer               
+https://www.smart-tools.ai/en/product/AmazonCodeWhisperer               
+14 апр 2023 [Amazon открыла бесплатный доступ к ИИ-помощнику CodeWhisperer — аналогу GitHub Copilot](https://habr.com/ru/news/729094/)                        
 
-## Duck.ai                       
-https://duck.ai                                  
+## Blackbox AI 
+https://www.blackbox.ai/
 
 ## Deepseek              
 https://deepseek.com        
 
-## Windsurf (Codeium)                  
-https://windsurf.com/plugins       
+## Duck.ai                       
+https://duck.ai                                  
 
 ## SourceCraft Code Assistant
 https://yandex.cloud/ru/docs/code-assistant/               
 
-## Amazon CodeWhisperer               
-https://www.smart-tools.ai/en/product/AmazonCodeWhisperer               
-14 апр 2023 [Amazon открыла бесплатный доступ к ИИ-помощнику CodeWhisperer — аналогу GitHub Copilot](https://habr.com/ru/news/729094/)                        
+## Windsurf (Codeium)                  
+https://windsurf.com/plugins       
+
 
 - - -
 
