@@ -37,8 +37,11 @@ https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven
 
 ## [GitHub Copilot](https://github.com/features/copilot)                      
 https://ru.wikipedia.org/wiki/GitHub_Copilot                          
-2024 [Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/)            
-2023 [Активируем Copilot в любом регионе](https://teletype.in/@marble_money/aktiviruem-copilot)          
+[Документация по GitHub Copilot](https://docs.github.com/ru/copilot)                     
+2024 [Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/)             
+21 апр 2024 [GitHub Copilot в JetBrains IDEs в РФ](https://habr.com/ru/articles/809277/)           
+2023 [Активируем Copilot в любом регионе](https://teletype.in/@marble_money/aktiviruem-copilot)            
+10 февр 2023 [Как установить и использовать Copilot в России](https://tproger.ru/articles/kak-ustanovit-i-ispolzovat-copilot-v-rossii)                 
 - - - 
 
 ## Code Llama
@@ -58,5 +61,3 @@ https://claude-ai.ru
 https://journal.tinkoff.ru/how-to-use-claude/
 
 ## Worked           
-[Документация по GitHub Copilot](https://docs.github.com/ru/copilot)                     
-10 февр 2023 [Как установить и использовать Copilot в России](https://tproger.ru/articles/kak-ustanovit-i-ispolzovat-copilot-v-rossii)                 
