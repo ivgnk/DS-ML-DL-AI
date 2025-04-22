@@ -55,7 +55,16 @@ https://duck.ai
 https://deepseek.com        
 
 ## Windsurf (Codeium)                  
-https://windsurf.com/plugins               
+https://windsurf.com/plugins       
+
+## SourceCraft Code Assistant
+https://yandex.cloud/ru/docs/code-assistant/               
+
+## Amazon CodeWhisperer               
+https://www.smart-tools.ai/en/product/AmazonCodeWhisperer               
+14 апр 2023 [Amazon открыла бесплатный доступ к ИИ-помощнику CodeWhisperer — аналогу GitHub Copilot](https://habr.com/ru/news/729094/)                        
+
+- - -
 
 ## Code Llama
 https://github.com/inferless/CodeLlama-70B                  
