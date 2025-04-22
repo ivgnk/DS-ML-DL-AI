@@ -39,10 +39,17 @@ https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven
 https://ru.wikipedia.org/wiki/GitHub_Copilot                          
 [Документация по GitHub Copilot](https://docs.github.com/ru/copilot)                     
 2024 [Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/)             
+2024-12-19 [GitHub Copilot стал бесплатным: как получить доступ в России через Comss.one DNS](https://www.comss.ru/page.php?id=15341)       
 21 апр 2024 [GitHub Copilot в JetBrains IDEs в РФ](https://habr.com/ru/articles/809277/)           
 2023 [Активируем Copilot в любом регионе](https://teletype.in/@marble_money/aktiviruem-copilot)            
 10 февр 2023 [Как установить и использовать Copilot в России](https://tproger.ru/articles/kak-ustanovit-i-ispolzovat-copilot-v-rossii)                 
 - - - 
+
+## Duck.ai                       
+https://duck.ai                                  
+
+Deepseek              
+## https://deepseek.com                           
 
 ## Code Llama
 https://github.com/inferless/CodeLlama-70B                  
