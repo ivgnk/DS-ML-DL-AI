@@ -54,8 +54,16 @@ https://www.smart-tools.ai/en/product/AmazonCodeWhisperer
 ## Blackbox AI 
 https://www.blackbox.ai/
 
-## Deepseek              
-https://deepseek.com        
+## Deepseek               
+https://deepseek.com                     
+
+
+## Deepseek Coder             
+https://deepseekcoder.github.io              
+https://deepseekcoder.pro              
+https://github.com/deepseek-ai/DeepSeek-Coder                       
+https://deepseek-ai.ru/deepseek-coder                            
+https://deepseeksai.com/coder-v2                    
 
 ## Duck.ai                       
 https://duck.ai                                  
