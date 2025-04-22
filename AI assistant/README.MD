@@ -56,3 +56,7 @@ https://claude-ai.ru
 
 Как пользоваться Claude в России 
 https://journal.tinkoff.ru/how-to-use-claude/
+
+## Worked           
+[Документация по GitHub Copilot](https://docs.github.com/ru/copilot)                     
+10 февр 2023 [Как установить и использовать Copilot в России](https://tproger.ru/articles/kak-ustanovit-i-ispolzovat-copilot-v-rossii)                 
