@@ -38,6 +38,9 @@ https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven
 ## [GitHub Copilot](https://github.com/features/copilot)                      
 https://ru.wikipedia.org/wiki/GitHub_Copilot                          
 [Документация по GitHub Copilot](https://docs.github.com/ru/copilot)                     
+
+
+23.01.2025 [Используйте GitHub Copilot бесплатно в Visual Studio](https://learn.microsoft.com/ru-ru/visualstudio/ide/copilot-free-plan?view=vs-2022)           
 2024 [Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/)             
 2024-12-19 [GitHub Copilot стал бесплатным: как получить доступ в России через Comss.one DNS](https://www.comss.ru/page.php?id=15341)       
 21 апр 2024 [GitHub Copilot в JetBrains IDEs в РФ](https://habr.com/ru/articles/809277/)           
