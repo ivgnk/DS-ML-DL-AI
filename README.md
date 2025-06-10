@@ -64,7 +64,7 @@ https://gitverse.ru/features/gigaide/desktop/download/
 ### MyChat with heybro.ai
 https://heybro.ai/web?etext=2202.qwzKUoAZwkhmhAP89Z7evlpNvGXqtJ7vv95GpC0qtFlL0c3sWjyfSi22Uu-SZgP4OD7cs9QNxrwjXk1KLAswzpWXrdgGedulVZKuDK5UvJR0DyU-rmfZPt_bqbEr5zo_eGhjaHV5a2h5bXRtZm9lbA.897336dbb1f2eaf3ebba77cf342a47f9b9f49bd7
 
-**Бесплатные чаты с LLM без регистрации**                           
+#### **Бесплатные чаты с LLM без регистрации**                           
 1) Ответ heybro.ai:                        
 - ChatGPT (бесплатная версия)
 Доступен на сайте chat.openai.com
